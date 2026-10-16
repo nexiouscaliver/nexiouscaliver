@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shahil Kadia</h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=440&lines=AI+System+Architect;privacy-first+tools+and+multi-agent+systems" alt="Typing SVG" /></p>
+<p align="center"><img src="https://shahilkadia.me/typing.svg" alt="Typing SVG" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-AI_System_Architect-0969da?style=flat-square" alt="Badge" />
